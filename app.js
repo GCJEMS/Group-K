@@ -14,3 +14,8 @@ app.listen(PORT, () => {
 });
 
 //change
+<<<<<<< HEAD
+console.log("Member's change in app.js");
+=======
+console.log("Leader's change in app.js");
+>>>>>>> main
