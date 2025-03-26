@@ -4,7 +4,7 @@ const app = express();
 
 const examGroupRoutes = require('./routes/examGroupRoutes');
 
-app.use('/api', examGroupRoutes);
+app.use('/', examGroupRoutes);
 
 const PORT = process.env.PORT || 3000;
 
