@@ -13,3 +13,8 @@ app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
 });
 
+<<<<<<< HEAD
+console.log("Member's change in app.js");
+=======
+console.log("Leader's change in app.js");
+>>>>>>> main
